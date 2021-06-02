@@ -38,6 +38,6 @@ six==1.15.0
 TgCrypto==1.2.0
 tldextract==3.0.2
 uritemplate==3.0.1
-urllib3==1.25.10
+urllib3==1.26.5
 yarl==1.5.1
 youtube-dl==2020.11.17
